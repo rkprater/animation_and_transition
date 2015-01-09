@@ -1,0 +1,138 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+
+body {
+  background-image: url("oldtruck.jpeg");
+  background-size: cover;
+  margin: 0;
+}
+
+.LEAD {
+  font-family: 'Raleway', sans-serif;
+  display:inline;
+  position:relative;
+  top:0px;
+  margin-left: 18%;
+  margin-top: 10%
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+  font-size:85px;
+  color: white;
+  text-align: center;
+  padding: 0;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+
+@-webkit-keyframes fade-in{
+  from{
+    opacity:1;
+    top:0px;
+  }
+  to{
+    opacity:0;
+    top:-5px;}
+  }
+
+  .container{
+    display:inline;
+    width:100px;
+    height:100px;
+    color: white;
+  }
+
+  .text {
+    font-family: 'Raleway', sans-serif;
+  }
+
+  .info1 {
+    font-family: 'Raleway', sans-serif;
+    display:inline;
+    position:relative;
+    top:0px;
+    margin-left: 23%;
+    -webkit-animation:fade-in 3s infinite;
+  }
+
+  .info2 {
+    font-family: 'Raleway', sans-serif;
+    opacity:0;
+    display:inline;
+    position:relative;
+    margin-left: 23%;
+    -webkit-animation:fade-in 3s infinite;
+    -webkit-animation-delay: 1.5s;
+  }
+
+  .info3 {
+    font-family: 'Raleway', sans-serif;
+    opacity:0;
+    display:inline;
+    position:relative;
+    margin-left: 23%;
+    -webkit-animation:fade-in 3s infinite;
+    -webkit-animation-delay: 1.5s;
+  }
+
+  .info4 {
+    font-family: 'Raleway', sans-serif;
+    opacity:0;
+    display:inline;
+    position:relative;
+    margin-left: 23%;
+    -webkit-animation:fade-in 3s infinite;
+    -webkit-animation-delay: 1.5s;
+  }
+
+  .info5 {
+    font-family: 'Raleway', sans-serif;
+    opacity:0;
+    display:inline;
+    position:relative;
+    margin-left: 23%
+    -webkit-animation:fade-in 3s infinite;
+    -webkit-animation-delay: 1.5s;
+  }
+
+  .info6 {
+    font-family: 'Raleway', sans-serif;
+    opacity:0;
+    display:inline;
+    position:relative;
+    margin-left: 23%;
+    -webkit-animation:fade-in 3s infinite;
+    -webkit-animation-delay: 1.5s;
+  }
+
+  .info7 {
+    font-family: 'Raleway', sans-serif;
+    opacity:0;
+    display:inline;
+    position:relative;
+    margin-left: 23%;
+    -webkit-animation:fade-in 3s infinite;
+    -webkit-animation-delay: 1.5s;
+  }
+
+  .info8 {
+    font-family: 'Raleway', sans-serif;
+    opacity:0;
+    display:inline;
+    position:relative;
+    margin-left: 23%;
+    -webkit-animation:fade-in 3s infinite;
+    -webkit-animation-delay: 1.5s;
+  }
+
+  .info9 {
+    font-family: 'Raleway', sans-serif;
+    opacity:0;
+    display:inline;
+    position:relative;
+    margin-left: 23%;
+    -webkit-animation:fade-in 3s infinite;
+    -webkit-animation-delay: 1.5s;
+  }
